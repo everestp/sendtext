@@ -1,4 +1,4 @@
-"use client";
+
 
 import { Icon, Icons } from "@/app/component/Icon";
 import SignOutButton from "@/app/component/SignOutButton";
