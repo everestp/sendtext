@@ -5,7 +5,7 @@ import { FC, useState } from "react";
 
 
 
-import Button from "../../component/ui/Button";
+import Button from "../../component/Button";
 import { signIn } from "next-auth/react";
 import toast from "react-hot-toast";
 
